@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @PierrickRauby,
-
+- 👋 Hi, I’m @PierrickRauby
 
 <!---
 PierrickRauby/PierrickRauby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
