@@ -1,3 +1,3 @@
 👋 Hi, I’m @PierrickRauby
 
-Learn more about me at [pierrickrauby.io](https://pierrickrauby.io)
+Learn more about me &rarr; [pierrickrauby.io](https://pierrickrauby.io)
